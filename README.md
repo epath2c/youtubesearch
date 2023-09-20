@@ -1,3 +1,3 @@
-用基于Class的React制作一个简易YouTube视频搜索网页
+Develop a simple YouTube search webpage using React Class:
 
-成品：https://react-projects-practice-youtube-videos.netlify.app/
+Webpage：https://react-projects-practice-youtube-videos.netlify.app/
